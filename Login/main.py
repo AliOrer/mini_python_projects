@@ -1,10 +1,10 @@
- import random
+import random
 
- n = random.randrange(1, 10)
+n = random.randrange(1, 10)
 
- guess = int(input("enter a number: "))
+guess = int(input("enter a number: "))
 
- while n! = guess:
+while n!= guess:
     if guess < n:
         print("too low")
         guess = int(input("enter a number again: "))
@@ -13,4 +13,4 @@
         guess = int(input("enter number again: "))
     else:
         break
-    print("you guessed it right!!")
+print("you guessed it right!!")
