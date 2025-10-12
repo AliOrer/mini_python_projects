@@ -1,0 +1,1 @@
+internetim yok, sari bozulmasın 
