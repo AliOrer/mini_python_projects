@@ -6,3 +6,8 @@ while True:
     devam = input('tekrar atmak ister misin? (e/h): ')
     if devam.lower() != 'e':
         break
+
+
+
+
+        
