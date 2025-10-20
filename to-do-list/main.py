@@ -7,3 +7,5 @@ while True:
 
    if secim == '1':
     gorev = input("yeni gorev: ")
+    todo.append(gorev)
+    
